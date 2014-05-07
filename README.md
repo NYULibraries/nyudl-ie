@@ -6,7 +6,7 @@ A gem for working with NYU DL Intellectual Entities
 
 ### *UNDER DEVELOPMENT*
 
-## Context
+## Description
   This gem provides functionality for various stages of Intellectual Entity (IE) processing.
   
   An Intellectual Entity (IE) maps descriptive, rights, and structural
