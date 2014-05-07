@@ -7,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = "nyudl-ie"
   spec.version       = Nyudl::Ie::VERSION
   spec.authors       = ["Joseph Pawletko"]
-  spec.email         = ["jgpawletko@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.email         = ["jgp@nyu.edu"]
+  spec.summary       = %q{NYU DLTS Intellectual Entity}
+  spec.description   = %q{Gem provides file-system manipulation of NYU DL Intellectual Entities (omparable to FRBR "Expressions").}
   spec.homepage      = ""
   spec.license       = "MIT"
 
@@ -20,4 +20,6 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.5"
   spec.add_development_dependency "rake"
+
+  spec.add_dependency "nokogiri"
 end
