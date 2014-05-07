@@ -8,6 +8,17 @@
 
 ## Context
   This gem provides functionality for various stages of Intellectual Entity (IE) processing.
+
+  An Intellectual Entity (IE) maps descriptive, rights, and structural
+  metadata to a set of Source Entities.  A Source Entity (SE) is a
+  digital content object, e.g., text, audio, video, images.
+
+  Ideally, IEs can be mapped consistently, regardless of the underlying
+  digital content object type.
+
+  The code assumes that the SEs will have a certain structure, specifically,
+  that they will have a [METS file ](http://www.loc.gov/standards/mets/) that conforms to the structure outlined [here](https://github.com/NYULibraries/aco-mets).
+
   * WIP 
     * validation
       * assertions:
