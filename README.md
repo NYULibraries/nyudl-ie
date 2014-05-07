@@ -1,10 +1,10 @@
 ## Nyudl::Ie
 
-A gem for working with NYU DL Intellectual Entities
+##### A gem for working with NYU DL Intellectual Entities
 
 ## Current Status
 
-### *UNDER DEVELOPMENT*
+#### *UNDER DEVELOPMENT*
 
 ## Description
   This gem provides functionality for various stages of Intellectual Entity (IE) processing.
