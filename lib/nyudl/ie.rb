@@ -1,5 +1,6 @@
 require "nyudl/ie/version"
 require "nyudl/ie/base"
+require "nyudl/ie/wip"
 
 module Nyudl
   module Ie
