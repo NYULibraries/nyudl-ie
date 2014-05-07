@@ -1,6 +1,6 @@
 ## Nyudl::Ie
 
-#### Gem validates NYU DL Intellectual Entities (similar to [FRBR](http://www.ifla.org/publications/functional-requirements-for-bibliographic-records) "Expression")
+A gem for working with NYU DL Intellectual Entities
 
 ## Current Status
 
@@ -8,10 +8,10 @@
 
 ## Context
   This gem provides functionality for various stages of Intellectual Entity (IE) processing.
-
+  
   An Intellectual Entity (IE) maps descriptive, rights, and structural
   metadata to a set of Source Entities.  A Source Entity (SE) is a
-  digital content object, e.g., text, audio, video, images.
+  digital content object, e.g., text, audio, video, image(s).
 
   Ideally, IEs can be mapped consistently, regardless of the underlying
   digital content object type.
